@@ -6,3 +6,6 @@
 
 # What is XGBoost?
 > XGBoost is a new Machine Learning algorithm designed with speed and performance in mind. XGBoost stands for eXtreme Gradient Boosting and is based on decision trees. In this project, we will import the XGBClassifier from the xgboost library; this is an implementation of the scikit-learn API for XGBoost classification. [Documentation](https://xgboost.readthedocs.io/en/stable/)
+
+# Dataset for Python Machine Learning Project
+> [Parkinsons dataset](https://github.com/aditya-since-2002/Detecting-Parkinson-s-Disease-with-XGBoost/tree/main/Datasets)
